@@ -1,1 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <img src="wutt.jpg" alt="" width="150px" height="150px">
+    <h1>SORIANO, KIRBY C..</h1>
+    <p><b>Email:</b> <a href="#"></a><br>
+    <b>Phone:</b><br>
+    <b>Address:</b><br>
+    <b>LinkDln:</b><br></p>
 
+    <hr>
+
+    <h2><b>Career Objective</b></h2>
+    <p>To be a successful in my life's work</p>
+
+    <h2><b>Education</b></h2>
+    <ul>
+        <li>Elementary - Talimundoc , Marimla</li>
+        <li>Junior High - Anastacio G. Yumul High School</li>
+        <li>Senior High - Anastacio G. Yumul High School</li>
+    </ul>
+
+    <h2>Work Experience or Seminars and Workshop Attended</h2>
+    <p>Work Immersion at Department of Public Works and Highways</p>
+
+    <h2>Hardware Skills</h2>
+    <p>System maintenance, Assembling devices, Knowledge of motherboards, circuits, and monitors</p>
+
+    <h2>Software Skills</h2>
+    <p>JAVA, HTML, CSS and JAVASCRIPT</p>
+
+    <h2>Additional Skills</h2>
+    <ul>
+        <li>Time Management</li>
+        <li>Designer</li>
+        <li>Editing</li>
+        <li>Adaptibility</li>
+    </ul>
+
+    <table border="1" width="50%" cellpadding="1px" cellspacing="0px">
+        <tr>
+          <td>FULL NAME</td>
+          <td>DESIGNATION</td>
+          <td>EMAIL</td>
+          <td>CONTANCE NUMBER</td>
+        </tr>
+        <tr>
+          <td>Delacruz, Mark A.</td>
+          <td>Programmer</td>
+          <td>soriano002@gmail.com</td>
+          <td>+6311111111</td>
+        </tr>
+        <tr>
+          <td>Trevor, John F.</td>
+          <td>Developer</td>
+          <td>wuutt@gmail.com</td>
+          <td>+6338923929</td>
+        </tr>
+        <tr>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>   
+      </table>
+      
+      <br>
+
+      <b><p>I HEREBY CERTIFY that the information provided in this form is complete, true, and correct to the best of my knowledge.</p></b>
+
+</body>
+</html>
